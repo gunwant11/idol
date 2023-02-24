@@ -19,11 +19,11 @@ const NFTCard = () => {
                     $40
                     </div>
                     
-                    <span class="flex items-center bg-slate-500 p-2 rounded-full">
+                    <span className="flex items-center bg-slate-500 p-2 rounded-full">
                         <div className='' >
-                            <img  className='w-7 h-7 rounded-full' src="https://find.xyz/assets/img/stickerlogos/flow-sticker-logo.jpg" class="sticker-image"/>
+                            <img  className='w-7 h-7 rounded-full' src="https://find.xyz/assets/img/stickerlogos/flow-sticker-logo.jpg" />
                         </div>&nbsp;
-                        <span class="text-white">Flow</span>
+                        <span className="text-white">Flow</span>
                         </span>
                     
             </div>
